@@ -38,7 +38,7 @@ This project demonstrates the creation of a **multi-environment AWS infrastructu
 ### 2️⃣ **Clone Repository**
 ```bash
 git clone https://github.com/biswas-12/Multi-Environment-AWS-Infrastructure-using-Terraform.git
-cd terraform-for-devops
+cd Multi-Environment-AWS-Infrastructure-using-Terraform
 ```
 
 ### 3️⃣ **Initialize Terraform**
